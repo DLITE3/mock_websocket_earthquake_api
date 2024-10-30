@@ -2,8 +2,6 @@
 
 ## 使い方
 まずはapiを起動する
-## 使い方
-まずはapiを起動する
 ```sh
 # Windowsなら
 $ python websocket_server.py
